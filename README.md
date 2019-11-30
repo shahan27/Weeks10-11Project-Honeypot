@@ -6,7 +6,7 @@
 
 
 Which Honeypot(s) you deployed
-
+<img src='HoneypotsDeployed.png' title='Proof Of Deployed' width='' alt='' />
 
 Any issues you encountered
 
