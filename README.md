@@ -1,7 +1,7 @@
 # Weeks10-11Project-Honeypot
 
 
-<img src='https://imgur.com/a/ukYgZb1' title='Proof Of Honey Pot Test' width='' alt='' />
+<img src='ProofOfHoneyPotTest.png' title='Proof Of HoneyPot' width='' alt='' />
 
 
 
@@ -18,3 +18,7 @@ A summary of the data collected: number of attacks, number of malware samples, e
 
 
 Any unresolved questions raised by the data collected
+
+
+
+
