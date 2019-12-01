@@ -15,7 +15,7 @@ Any issues you encountered
 
 A summary of the data collected: number of attacks, number of malware samples, etc.
 
-
+<img src='data_collected.gif' title='' width='' alt='' />
 
 
 Any unresolved questions raised by the data collected
